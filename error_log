@@ -1,0 +1,42 @@
+[16-Jan-2021 13:22:23 America/Chicago] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1856
+Stack trace:
+#0 /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sat, 16 J...', 'This is a multi...')
+#1 /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/opaquevfx/public_html/process_data.php(122): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1856
+[17-Jan-2021 00:52:28 America/Chicago] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1856
+Stack trace:
+#0 /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 17 J...', 'This is a multi...')
+#1 /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/opaquevfx/public_html/process_data.php(122): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1856
+[17-Jan-2021 00:55:56 America/Chicago] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1856
+Stack trace:
+#0 /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 17 J...', 'This is a multi...')
+#1 /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/opaquevfx/public_html/process_data.php(122): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1856
+[17-Jan-2021 01:02:24 America/Chicago] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1856
+Stack trace:
+#0 /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 17 J...', 'This is a multi...')
+#1 /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/opaquevfx/public_html/process_data.php(122): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1856
+[17-Jan-2021 01:04:05 America/Chicago] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1856
+Stack trace:
+#0 /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 17 J...', 'This is a multi...')
+#1 /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/opaquevfx/public_html/process_data.php(122): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1856
+[17-Jan-2021 01:08:58 America/Chicago] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1856
+Stack trace:
+#0 /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 17 J...', 'This is a multi...')
+#1 /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/opaquevfx/public_html/process_data.php(122): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/opaquevfx/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1856
