@@ -811,3 +811,9 @@
     text-align: left;
 }
 
+i.fa{
+    padding: 20px;
+    width: 50px;
+    font-size: 40px;
+    color: #ddd;
+}
